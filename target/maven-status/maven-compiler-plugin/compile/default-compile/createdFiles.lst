@@ -1,0 +1,10 @@
+com/example/mapstructdemo/domain/Person.class
+com/example/mapstructdemo/dto/MovieDto.class
+com/example/mapstructdemo/MapstructDemoApplication.class
+com/example/mapstructdemo/domain/GenreType.class
+com/example/mapstructdemo/dto/PersonDto.class
+com/example/mapstructdemo/mapper/MovieMapper.class
+com/example/mapstructdemo/mapper/MovieMapperImpl.class
+com/example/mapstructdemo/domain/Movie.class
+com/example/mapstructdemo/dto/MovieMap.class
+com/example/mapstructdemo/controller/MovieController.class

@@ -1,0 +1,9 @@
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/domain/Person.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/domain/GenreType.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/domain/Movie.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/dto/MovieMap.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/mapper/MovieMapper.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/dto/PersonDto.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/MapstructDemoApplication.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/dto/MovieDto.java
+/Users/agrawals/projects/learning/mapstruct-poc/src/main/java/com/example/mapstructdemo/controller/MovieController.java
