@@ -26,6 +26,7 @@ public class MovieController {
     public List<MovieDto> getMovies(@RequestParam(name = "filter", required = false) String filtr) {
         System.out.println(filtr);
         Movie movie1 = new Movie(2, "Tenet", new Date(), null, 10, GenreType.ACTION);
+        Movie movie2 = new Movie(3, "Tenet3", new Date(), null, 10, GenreType.ACTION);
 //        MovieMapper mapper = MovieMapper.INSTANCE;
         return Arrays.asList(mapper.movieToMovieDto(movie1));
     }
